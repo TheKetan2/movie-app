@@ -129,7 +129,7 @@ class Home extends Component {
                 image={
                   element.poster_path
                     ? `${IMAGE_BASE_URL}${POSTER_SIZE}${element.poster_path}`
-                    : "https://github.com/TheKetan2/movie-app/blob/master/public/images/no_image.jpg"
+                    : "https://raw.githubusercontent.com/TheKetan2/movie-app/master/public/images/no_image.jpg"
                 }
                 movieId={element.id}
                 movieName={element.original_title}

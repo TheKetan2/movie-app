@@ -12,7 +12,7 @@ const Actor = ({ actor }) => {
         src={
           actor.profile_path
             ? `${IMAGE_BASE_URL}${POSTER_SIZE}${actor.profile_path}`
-            : "https://github.com/TheKetan2/movie-app/blob/master/public/images/no_image.jpg"
+            : "https://raw.githubusercontent.com/TheKetan2/movie-app/master/public/images/no_image.jpg"
         }
         alt="actorthumb"
       />

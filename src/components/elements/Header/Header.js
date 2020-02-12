@@ -8,13 +8,13 @@ const Header = () => (
       <Link to="/">
         <img
           className="rmdb-logo"
-          src="https://github.com/TheKetan2/movie-app/blob/master/public/images/reactMovie_logo.png"
+          src="https://raw.githubusercontent.com/TheKetan2/movie-app/master/public/images/reactMovie_logo.png"
           alt="rmdb-logo"
         />
       </Link>
       <img
         className="rmdb-tmdb-logo"
-        src="https://github.com/TheKetan2/movie-app/blob/master/public/images/tmdb_logo.png"
+        src="https://raw.githubusercontent.com/TheKetan2/movie-app/master/public/images/tmdb_logo.png"
         alt="tmdb-logo"
       />
     </div>
