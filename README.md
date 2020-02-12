@@ -8,6 +8,22 @@ https://theketan2.github.io/movie-app/
 
 ### Topics covered
 
-- Fetch API
-- tmdb api
-- react-router-dom
+- React Fundamentals
+
+- Components, props and state
+
+- JSX syntax and expressions
+
+- Fetching data from an external API
+
+- Lifecycle Methods
+
+- Use Create-React-App
+
+- Deploy the finished App
+
+- ES6+ concepts and syntax
+
+- Use Local Storage to keep state
+
+- BONUS: Destructuring state and props with ES6
