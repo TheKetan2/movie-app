@@ -5,7 +5,7 @@ import "./Header.css";
 const Header = () => (
   <div className="rmdb-header">
     <div className="rmdb-header-content">
-      <Link to="/movie-app/">
+      <Link to="/movie-app/movie-app/">
         <img
           className="rmdb-logo"
           src="https://raw.githubusercontent.com/TheKetan2/movie-app/master/public/images/reactMovie_logo.png"
