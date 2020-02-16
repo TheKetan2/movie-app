@@ -26,4 +26,4 @@ https://theketan2.github.io/movie-app/
 
 - Use Local Storage to keep state
 
-- BONUS: Destructuring state and props with ES6
+
